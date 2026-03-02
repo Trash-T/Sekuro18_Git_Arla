@@ -1,0 +1,6 @@
+*   6f69d0d merge: merge v1 ke v2 dan resolve conflict
+|\  
+| * 48f707e docs: tambah komentar v1
+* | a8d2d98 docs: tambah komentar v2
+|/  
+* 22c5a5f feat: inisiasi github
